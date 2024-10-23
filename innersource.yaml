@@ -1,0 +1,23 @@
+## This is where we save links to external resources that are displayed on your project's profile in the InnerSource Portal.
+---
+
+## Link to documentation
+documentationLink: "https://pages.github.ibm.com/CRMIHAI1/consulting_assistants_api/"
+## documentationLink: "<YOUR_DOCUMENTATION_URL>"
+
+## Link to project slack channel
+slackChannel: "https://ibm.enterprise.slack.com/archives/C04U5TE3PFV"
+## slackChannel: "<YOUR_SLACK_CHANNEL_URL>"
+
+## Links to starter contact info
+starterName: "[Mihai Criveti](https://w3.ibm.com/#/people/I81208754)"
+## starterName: "[<FIRST_NAME> <LAST_NAME](<W3_DEVELOPER_PROFILE>)"
+
+starterRole: "Principal Architect"
+## starterRole: "<YOUR_PROJECT_ROLE>"
+
+starterSlack: "@cmihai"
+## starterSlack: "<YOUR_SLACK_CHANNEL_URL>"
+
+starterEmail: "crmihai1@ie.ibm.com"
+## starterEmail: "<YOUR_IBM_EMAIL>"
